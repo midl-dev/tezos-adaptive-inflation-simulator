@@ -6,7 +6,7 @@ Powered by TzKT API.
 
 Press this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/midl-dev/tezos-baker-version-extractor/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/midl-dev/tezos-adaptive-inflation-simulator/HEAD)
 
 Wait for jupyter notebook to launch.
 
